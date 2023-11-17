@@ -1,0 +1,14 @@
+name: your-app-name
+rsconnect:
+  appname: HBV_Alberta_School
+  account: fed1li-maria0lorena-rodriguez
+  onboarding: false
+script: app_Rodriguez.R
+dependencies:
+  - tidyverse
+  - dplyr
+  - shiny
+  - ggplot2
+  - shinyWidgets
+  - leaflet
+  - DT
