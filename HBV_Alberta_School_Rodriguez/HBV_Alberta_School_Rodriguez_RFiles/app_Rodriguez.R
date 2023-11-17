@@ -7,7 +7,7 @@
 #     filtered: http://www.ahw.gov.ab.ca/IHDA_Retrieval/selectSubCategoryParameters.do#
 #-----------------------------------------------------------------------------------------------------------
 
-#install.packages(c('shinyWidgets', 'leaflet'))
+install.packages(c('shinyWidgets', 'leaflet'))
 # install.packages('DT') ## uncomment if want to show table ##
 
 library(shiny)  # facilitates building apps 
