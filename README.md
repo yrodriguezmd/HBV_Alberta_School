@@ -8,8 +8,9 @@ Creation of an interactive shinyapp that would show the Hepatitis B immunization
 
 
 
-![HBV_Alberta_School_Fig2_Rodriguez](https://github.com/yrodriguezmd/HBV_Alberta_School/assets/71532604/5cbf534a-bf5a-4b8d-970b-7a7b569fd8ab)
 
+
+![HBV_Alberta_School_Fig2_Rodriguez](https://github.com/yrodriguezmd/HBV_Alberta_School/assets/71532604/483e8033-5a18-4302-aef6-d9f6fde867a8)
 
 
 
