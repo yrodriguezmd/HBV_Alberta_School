@@ -7,7 +7,7 @@
 #     filtered: http://www.ahw.gov.ab.ca/IHDA_Retrieval/selectSubCategoryParameters.do#
 #-----------------------------------------------------------------------------------------------------------
 
-# install.packages(c("tidyverse", 'ggplot2','renv'))
+install.packages(c("tidyverse", 'ggplot2','renv'))
 
 # library(renv) # to create virtual env
 # renv::init()  # uncomment to create env, lock file
