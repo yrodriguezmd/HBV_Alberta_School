@@ -19,7 +19,7 @@ df <- read_csv('Alberta_Sch_HBV_Gr6.csv') # in root folder
 
 summary(df)
 sum(is.na(df)) # 0, no nulls
-unique(df1$Geography) # "Z1" "Z2" "Z3" "Z4" "Z5"
+unique(df$Geography) # "Z1" "Z2" "Z3" "Z4" "Z5"
 
 # create a function that would return transformed data
 get_df <- function(df){
